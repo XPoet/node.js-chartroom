@@ -8,4 +8,4 @@
 
 **Demo演示视频请参考Issues**  
 
-**博客链接：[传送门](http://itpoet.cn/2018/02/07/nodejs-build-socket-chartroom/)**
+**本文博客链接：https://xpoet.cn/2018/02/nodejs-build-socket-chartroom/**
